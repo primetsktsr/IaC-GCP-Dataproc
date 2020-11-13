@@ -7,7 +7,7 @@
 project = "tsk-terraform-dataproc"
 
 #Staging bucket, used used to stage files, such as Hadoop jars, between client machines and the cluster.
-staging_bucket = "[YOUR-BUCKET-NAME]"
+staging_bucket = "iac-gcp-dataproc-bucket"
 
 #Enter your region
 region = "us-central1"
