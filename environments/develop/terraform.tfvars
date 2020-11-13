@@ -23,4 +23,3 @@ cidrs = [ "10.0.0.0/16", "10.1.0.0/16" ]
 # replace with a service account you want to be used in the VMs to be created
 # leave in blank if you want to use a new service account
 service_account = "919433682310-compute@developer.gserviceaccount.com"
-
