@@ -75,6 +75,3 @@ steps:
 #      terraform init  
 #      terraform destroy -auto-approve    
 ## [END sh-config]    
-
-
-
