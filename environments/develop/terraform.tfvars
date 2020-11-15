@@ -10,7 +10,7 @@ project = "tsk-terraform-dataproc"
 staging_bucket = "ctic-classes"
 
 #Enter your region
-region = "us-central1"
+region = "us-central1-a"
 
 # replace with n1-standard-1 if you only want to test
 machine_types = {
